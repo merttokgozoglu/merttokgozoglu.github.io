@@ -87,7 +87,7 @@ In my journey, I've had the privilege of working with a variety of web servers a
 This comprehensive expertise in web servers, load balancers, and hosting automation solutions reflects my commitment to delivering top-notch hosting and web services. It's a testament to my continuous pursuit of knowledge and practical skills.
 
 ## Projects and Contributions
-- [OpenInfra Day Turkey 2022](http://openinfradayturkey.com/event/openinfra-day-turkey-2022-tr/): I had the privilege of participating as a speaker at this event, where I shared insights and knowledge.
+- [OpenInfra Day Turkey 2022](https://openinfradayturkey.com/event/openinfra-day-turkey-2022-tr/): I had the privilege of participating as a speaker at this event, where I shared insights and knowledge.
 - [Optimizing Nginx for High Performance Webinar](https://www.youtube.com/watch?v=oSz55X0xkm0): This webinar, focused on "Optimizing NginX for High Performance," was hosted by Vargonen.
 
 My passion for technology and open-source software, combined with my extensive technical knowledge and belief in teamwork, drives me to contribute to the mission and vision of Vargonen and its clients. I celebrate continuous growth and learning in this field, sharing knowledge and experiences with the technology community. My projects and contributions at Vargonen aim to add value to our customers and partners and collectively create better solutions.
