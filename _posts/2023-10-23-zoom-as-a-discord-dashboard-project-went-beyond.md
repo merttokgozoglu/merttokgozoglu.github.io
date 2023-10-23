@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Lookout Project: Bridging Zoom and Discord"
+title: "The Lookout Project: Zoom as a Discord"
 date: 2023-10-23 10:20:00 +0300
 categories: data visualization integration
 tags: [data, csv, visualization, zoom, discord, webhooks, nginx, mongodb, python, php]
@@ -132,8 +132,9 @@ Here are the crucial snippets and configurations used in Lookout:
 
 ```php
 // zoom_validate.php
+
 <?php
-// zoom_hooks.php
+// zoom_validate.php
 
 // Your MongoDB configuration
 $mongo_user = 'dbuser';
